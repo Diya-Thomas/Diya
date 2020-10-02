@@ -10,26 +10,71 @@ Apr 2018-Present: Researcher, Macquarie University, Sydney
 
 
 ### Research Experience
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+#Supervised Under-graduate and post-graduate student projects:
+-	Routing Protocol design in Ad-Hoc Network
+      o	Clustering in wireless network
+-	Security in Adhoc Network
+- Developing Modified Routing Protocols for preventing black hole attack, Symbil attack, Vampire attacks in Ad-Hoc network
+-	Autonomous car parking system
+-	Home automation in IoT
+-	Medical image privacy
+- SQL Tutor, Query Assist
+-	Mobile Controlled Wheel Chair
+-	Document Indexing System
+-	Multi level Privacy Preserving in Medical Data Publishing
+-	An Optimal Weighted Cluster Based Routing Protocol For Manet
+-	Black hole detection in Ad hoc Network
+-	QoS Routing in Ad hoc Network
+-	Medical Image Protection 
+-	Enhanced Method for Noise Identification in Datasets (Minor project)
+Current Project
+-Intrusion detection-Network
 
-1. Numbered
-2. List
+#Research Publications
 
-**Bold** and _Italic_ and `Code` text
+1.	Diya Thoma, Rajan Shankaran,et.al.,”A graph based fault-tolerant approach to modelling QoS for IoT based surveillance application”, IEEE IoT journal, 2020 [Accepted, Impact Factor IF:9.9]
+2.	Diya Thomas, Rajan Shankaran,”A secure barrier coverage scheduling framework for WSN-based IoT applications”, 23rd ACM/IEEE International conference on modelling, analysis, simulation of wireless and mobile system, Spain, 2020 [Core A-ranked]
+3.	Diya Thomas, Rajan Shankaran, Mehmet Orgun,”An energy efficient Military Surveillance: Coverage meets Connectivity”,IEEE Sensor Journal,Jan 2019. [Impact Factor:3.78]
+4.	 Diya Thomas and B. C. Kovoor, “A Genetic Algorithm Approach to Autonomous Smart Vehicle Parking system,” Procedia Computer Science, vol. 125, pp. 68–76, 2018. 
+5.	Diya Thomas, Philomeena jees,” Medical Image Protection in Cloud System”,International Journal of current engineering and scientific research, Volume 3,issue7,2016
+6.	Aswathy P Sreevatsan , Diya Thomas,” An Optimal Weighted Cluster Based Routing Protocol For Manet”, International Conference on Data Mining and Advanced Computing
+,IEEE,March,2016
+7.	Diya Thomas,Neera Sali,” Multi level Privacy Preserving in Medical Data Publishing”, Seventh International Conference on Advances in Computing, Control, and Telecommunication Technologies - ACT 2016  
+8.	Aswathy P Sreevatsan and Diya Thomas, ”A survey on weighted clustering techniques”,International journal of Computer Engineering and Technology,Vol 5,Issue 12,December 2014
+9.	Diya Thomas, “Secure Anonymous Energy Efficient Optimal Routing Protocol for Adhoc Network”, International Journal of Modern Computer Science and Applications (IJMCSA) ISSN: 2321-2632 (Online) Volume No.-2, Issue No.-6, November, 2014
+10.	Aswathy P Sreevatsan and Diya Thomas, " Enhanced Method for Noise Identification in Datasets", Recent Advances in Computing and Communications System, Proceedings of Fourth International Workshop on Advances in Computing and Communications 2014 
+11.	Diya Thomas, Sageetha Jamal,”A Categorized Survey on Buffer Overflow Countermeasures”, International Journal of Advanced Research in Computer and Communication Engineering, 2013. 
+12.	Diya Thomas, Christy Thomas,” An Enhanced method for privacy preservation in data publishing” , International Conference on Computing, Communication and Networking Technologies, IEEE,2013. 
+13.	Diya Thomas, Christy Thomas,”A Survey on Privacy Preservation in Data Publishing”, International Journal of Computer Science & Engineering Technology, 2013.
+14.	Diya Thomas, “Location Dependent Query Processing in Mobile Environment”, International Conference on Advances in Computing and Communication, IEEE, 2012. 
+15.	Diya Thomas, Sabu Thampi, “Mobile Query processing-Taxonomy, issues and challenges”, International Conference on Advances in Computing and Communication, Vol. 1, p. 64-77, Springer, 2011
+16.	Aswathy P Sreevatsan , Diya Thomas : A Weighted Cluster Based Routing Protocol for MANET : International Journal of Advanced Research in Computer Science & Software Engineering , Volume 5 Issue 11
 
-[Link](url) and ![Image](src)
-```
+## Programming Languages Known
+•	C and C++
+•	R and Python
+•	Java
+•	NS2 and NS3
+•	TCL Scripting and AWK scripting
+•	MATLAB
+•	Raspberry Pi and Arduino Programming
+•	Atmega 2560 Programming (FIREBIRD Programming)
+•	openMP
+•	SQL, MySQL, Pl/SQL Programming
+•	8085 & 8086 Programming
+•	Weka tool for data mining
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Diya-Thomas/Diya/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Subjects Taught
+•	Database Management System
+•	Computer Networks and Advanced Computer networks
+•	Network and Information Security
+•	Information Technology
+•	NS2 simulation
+•	System Software
+•	Computer Programming
+•	Operating System
+•	Data structures
+•	Computer graphics
+•	Electronic-Commerce
+.
