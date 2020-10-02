@@ -86,7 +86,7 @@ Current Project
 •	Networking Lab (LAN connection, switch configuration, Router configuration)
 •	Mini project
 •	Advanced computing lab (data structure implementation in C++, shell programming, Kernel programming, operating system programming).
-###Other Achievements
+## Other Achievements
 •	Recipient of Macquarie University (Sydney) research excellence scholarship and runner up of three minute thesis competition.
 •	First Rank holder  in Masters  (2009-2011 Batch) from M.G university
  Reference: https://www.rajagiritech.ac.in/Home/Academics/rank.asp               
