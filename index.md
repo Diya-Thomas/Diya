@@ -1,17 +1,15 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/Diya-Thomas/Diya/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+"Hardwork Never Goes Unrewarded"-Work hard with passion you will succeed :). I am an academician with over 8 years of experience in teaching and research. My research areas are IoT and cyber-security. I am interested in solving IoT and cyber-security related problems using graph mining and artificial intelligence approach. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Academic Ecperience
 
-### Markdown
+Jan 2012-Jun 2012: Assistant Professor in Department of Computer Science and Engineering in ASIET, M.G University, India
+Jun 2012-Mar 2018: Assistant Professor in Department of Computer Science and Engineering in RSET,M.G University, India
+Apr 2018-Present: Researcher, Macquarie University, Sydney
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
+### Research Experience
 ## Header 2
 ### Header 3
 
