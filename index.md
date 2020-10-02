@@ -77,4 +77,20 @@ Current Project
 •	Data structures
 •	Computer graphics
 •	Electronic-Commerce
-.
+## Labs handled
+•	C Programming
+•	Database (SQL, PL/SQL, ODBC connectivity)
+•	Python
+•	Computer graphics
+•	NS2(TCL scripting, awk scripting, shell programming, packet capturing)
+•	Networking Lab (LAN connection, switch configuration, Router configuration)
+•	Mini project
+•	Advanced computing lab (data structure implementation in C++, shell programming, Kernel programming, operating system programming).
+###Other Achievements
+•	Recipient of Macquarie University (Sydney) research excellence scholarship and runner up of three minute thesis competition.
+•	First Rank holder  in Masters  (2009-2011 Batch) from M.G university
+ Reference: https://www.rajagiritech.ac.in/Home/Academics/rank.asp               
+•	Got ‘Proficiency Award’ for the excellent performance in Masters degree course
+Reference: https://www.rajagiritech.ac.in/Home/Achievements/Awards.asp
+
+
